@@ -544,7 +544,7 @@ h4{
     }
 
     .hero h1{
-        font-size: 4rem;
+        font-size: 3.6rem;
     }
 
     .hero p{
@@ -553,7 +553,7 @@ h4{
     }
 
     .btn-cta{
-        width: 65%;
+        width: 78%;
         justify-content: center;
         padding: 16px;
         font-size: 1rem;
